@@ -1,0 +1,12 @@
+.lighter {
+    color: lightslategray;
+    font-size: 10px;
+}
+.lighterB {
+    color: lightslategray;
+}
+.form-check-inline {
+    font-size: 13px;
+    white-space: nowrap;
+    color: white;
+}
